@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="0.0.0">
-    <channel>
-        <title>PatrolBuddyGo</title>
-        <link>https://github.com/trap-stevo/PatrolBuddyGo/blob/main/pbgAppcast.xml</link>
-        <description>New update available...!</description>
-        <language>en</language>
-        <item>
-            <title>Version 0.0.0 </title>
-            
-            <pubDate>Sun, 15 Oct 2023 10:30:00 +0000</pubDate>
-            <enclosure url="https://github.com/trap-stevo/PatrolBuddyGo/blob/main/0.0.0/PatrolBuddyGoSetup.msi"
-                       sparkle:version="0.0.0"
-                       sparkle:os="windows"
-                       type="application/octet-stream"
-                       sparkle:signature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
-        </item>
-    </channel>
-</rss>
+<item>
+  <version>0.0.0.0</version>
+  <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+  <mandatory>true</mandatory>
+</item>
