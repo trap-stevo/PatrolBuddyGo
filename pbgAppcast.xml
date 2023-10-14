@@ -1,1 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>PatrolBuddyGo</title><description>New update available...!</description><language>en</language><item><title>Version: 0.0.0 (3 features)</title><pubDate>Sun, 15 Oct 2023</pubDate><enclosure url="https://github.com/trap-stevo/PatrolBuddyGo/blob/main/PatrolBuddyGoSetup.msi" sparkle:version="0.0.0" sparkle:shortVersionString="0.0" sparkle:os="windows" type="application/octet-stream" sparkle:signature="YIe61vmwGNekiXfQztktDjzObY0v/1OfcMc+QsSeux/emKKe9WhL6y1r85+YSddi9LR1hFCQxmGc3mrZV6UXCQ==" /></item></channel></rss>
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>
+      PatrolBuddyGo
+    </title>
+    
+    <description>
+      New update available...!
+    </description>
+    
+    <language>en</language>
+    
+    <item>
+      <title>
+        Version 0.0.0 (3 features)
+      </title>
+      
+      <pubDate>
+        Sun, 15 Oct 2023
+      </pubDate>
+      
+      <enclosure 
+        url="https://github.com/trap-stevo/PatrolBuddyGo/blob/main/PatrolBuddyGoSetup.msi" 
+        sparkle:version="0.0.0" 
+        sparkle:shortVersionString="0.0" 
+        sparkle:os="windows" 
+        type="application/octet-stream" 
+        sparkle:signature="YIe61vmwGNekiXfQztktDjzObY0v/1OfcMc+QsSeux/emKKe9WhL6y1r85+YSddi9LR1hFCQxmGc3mrZV6UXCQ==" 
+      />
+    </item>
+  </channel>
+</rss>
