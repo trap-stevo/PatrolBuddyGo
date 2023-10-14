@@ -22,7 +22,7 @@
       </pubDate>
       
       <enclosure 
-        url="https://github.com/trap-stevo/PatrolBuddyGo/blob/main/PatrolBuddyGoSetup.msi" 
+        url="https://github.com/trap-stevo/PatrolBuddyGo/blob/main/0.0.0/PatrolBuddyGoSetup.msi" 
         sparkle:version="0.0.0" 
         sparkle:shortVersionString="0.0" 
         sparkle:os="windows" 
